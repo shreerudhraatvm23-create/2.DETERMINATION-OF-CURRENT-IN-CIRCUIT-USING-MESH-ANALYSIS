@@ -1,5 +1,9 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
 
+**NAME:SRI RUDHRA S**
+
+**REFERENCE NO:25002861**
+
 **AIM:**
 
 *To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit.*
@@ -22,6 +26,23 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="837" height="592" alt="image" src="https://github.com/user-attachments/assets/e0e79aaf-8a5f-4515-87d5-f604f4fd4332" />
+
+
+
+**TABULAR COLUMN**
+
+<img width="934" height="466" alt="image" src="https://github.com/user-attachments/assets/de2c9c94-4556-491d-a35f-2ff1958219ad" />
+
+
+
+
+**CALCULATION**
+
+<img width="396" height="725" alt="image" src="https://github.com/user-attachments/assets/65768c9d-103c-4e36-94a0-c05693b01850" />
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -35,6 +56,10 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+
+<img width="828" height="725" alt="image" src="https://github.com/user-attachments/assets/f1ed0820-3c97-4868-8a1f-c52960e19a04" />
+
+
 
    **RESULT:**
 
